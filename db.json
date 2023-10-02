@@ -1,7 +1,26 @@
 {
-    "users": [
-        {"id": 1, "name": "Neil"}
-    ], 
-    "albums": [], 
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Neil"
+    },
+    {
+      "name": "Ismael Mante",
+      "id": 2
+    },
+    {
+      "name": "Angelica DuBuque",
+      "id": 3
+    },
+    {
+      "name": "Lydia Murazik",
+      "id": 4
+    },
+    {
+      "name": "Orlando Rippin",
+      "id": 5
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
