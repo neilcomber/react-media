@@ -9,6 +9,67 @@
       "id": 3
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "hiking trip",
+      "userId": 2
+    },
+    {
+      "userId": 2,
+      "title": "Elegant Cotton Bike",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "title": "Sleek Granite Chicken",
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "title": "Ergonomic Cotton Computer",
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "title": "Incredible Cotton Soap",
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "title": "Intelligent Rubber Computer",
+      "id": 15
+    },
+    {
+      "userId": 2,
+      "title": "Luxurious Concrete Shoes",
+      "id": 16
+    },
+    {
+      "userId": 2,
+      "title": "Generic Frozen Salad",
+      "id": 17
+    },
+    {
+      "userId": 2,
+      "title": "Incredible Granite Bike",
+      "id": 18
+    },
+    {
+      "userId": 2,
+      "title": "Refined Fresh Soap",
+      "id": 19
+    },
+    {
+      "userId": 2,
+      "title": "Handcrafted Cotton Ball",
+      "id": 20
+    },
+    {
+      "userId": 2,
+      "title": "Refined Granite Table",
+      "id": 21
+    }
+  ],
   "photos": []
 }

@@ -2,7 +2,7 @@ import { GoTrash } from 'react-icons/go';
 import Button from "./Button";
 import { deleteUser } from '../store/thunks/deleteUser';
 import useThunk from '../hooks/useThunk';
-import ExpandablePanel from './expandablePanel';
+import ExpandablePanel from './ExpandablePanel';
 import AlbumsList from './AlbumsList';
 
 function UsersListItem({ user }) {

@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import { useSelector } from 'react-redux';
 import { fetchUsers, addUser, deleteUser } from '../store';
-import Skeleton from './skeleton';
+import Skeleton from './Skeleton';
 import Button from './Button';
 import UsersListItem from './UsersListItem';
 import useThunk from '../hooks/useThunk';
