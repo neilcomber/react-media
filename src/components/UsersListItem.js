@@ -14,10 +14,13 @@ function UsersListItem({ user }) {
     }
 
     return <div className="mb-2 border rounded">
-                <div className="flex p-2 justify-between items-center cursor-pointer">
-            <Button loading={isDeleteingUser} onClick={handleUserDelete}><GoTrash /></Button>
-                    {deletingUserError && <div>Error Deleting user</div>}
-                    {user.name}
+        <div className="flex p-2 justify-between items-center cursor-pointer">
+            <div className="flex flex-row items-center justify-between">
+                <Button className="mr-3" loading={isDeleteingUser} onClick={handleUserDelete}><GoTrash /></Button>
+                {deletingUserError && <div>Error Deleting user</div>}
+                {user.name}
+            </div>
+            
                 </div>
             </div>
 }

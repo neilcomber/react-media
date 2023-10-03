@@ -1,8 +1,20 @@
 {
   "users": [
     {
-      "name": "Lucia Roberts",
-      "id": 22
+      "name": "Mr. Wm Gusikowski",
+      "id": 1
+    },
+    {
+      "name": "Dr. Dominick Halvorson",
+      "id": 2
+    },
+    {
+      "name": "Dexter Pollich IV",
+      "id": 3
+    },
+    {
+      "name": "Marie Boehm",
+      "id": 4
     }
   ],
   "albums": [],
