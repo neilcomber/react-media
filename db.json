@@ -1,55 +1,32 @@
 {
   "users": [
     {
-      "name": "Dr. Dominick Halvorson",
-      "id": 2
-    },
-    {
-      "name": "Dexter Pollich IV",
+      "name": "Nadine Steuber",
       "id": 3
-    },
-    {
-      "name": "Faith Hettinger",
-      "id": 4
     }
   ],
   "albums": [
     {
-      "userId": 4,
-      "title": "Fantastic Rubber Chair",
-      "id": 26
-    },
-    {
       "userId": 3,
-      "title": "Incredible Frozen Bacon",
-      "id": 28
-    },
-    {
-      "userId": 4,
-      "title": "Electronic Rubber Shoes",
-      "id": 29
-    },
-    {
-      "userId": 2,
-      "title": "Fantastic Metal Mouse",
-      "id": 40
+      "title": "Handmade Granite Table",
+      "id": 1
     }
   ],
   "photos": [
     {
-      "albumId": 40,
-      "url": "https://picsum.photos/seed/uKos1N18/640/480",
-      "id": 1
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=4522867007946752",
+      "id": 11
     },
     {
-      "albumId": 28,
-      "url": "https://loremflickr.com/640/480?lock=2266967543119872",
-      "id": 2
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=3426809829916672",
+      "id": 12
     },
     {
-      "albumId": 28,
-      "url": "https://picsum.photos/seed/jBq46LTf/640/480",
-      "id": 3
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/D9ehgU8/640/480",
+      "id": 13
     }
   ]
 }
