@@ -15,94 +15,9 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "hiking trip",
-      "userId": 2
-    },
-    {
-      "userId": 2,
-      "title": "Elegant Cotton Bike",
-      "id": 11
-    },
-    {
-      "userId": 2,
-      "title": "Sleek Granite Chicken",
-      "id": 12
-    },
-    {
-      "userId": 2,
-      "title": "Ergonomic Cotton Computer",
-      "id": 13
-    },
-    {
-      "userId": 2,
-      "title": "Incredible Cotton Soap",
-      "id": 14
-    },
-    {
-      "userId": 2,
-      "title": "Intelligent Rubber Computer",
-      "id": 15
-    },
-    {
-      "userId": 2,
-      "title": "Luxurious Concrete Shoes",
-      "id": 16
-    },
-    {
-      "userId": 2,
-      "title": "Generic Frozen Salad",
-      "id": 17
-    },
-    {
-      "userId": 2,
-      "title": "Incredible Granite Bike",
-      "id": 18
-    },
-    {
-      "userId": 2,
-      "title": "Refined Fresh Soap",
-      "id": 19
-    },
-    {
-      "userId": 2,
-      "title": "Handcrafted Cotton Ball",
-      "id": 20
-    },
-    {
-      "userId": 2,
-      "title": "Refined Granite Table",
-      "id": 21
-    },
-    {
-      "userId": 2,
-      "title": "Handcrafted Metal Towels",
-      "id": 22
-    },
-    {
-      "userId": 2,
-      "title": "Handmade Granite Car",
-      "id": 23
-    },
-    {
-      "userId": 2,
-      "title": "Tasty Fresh Chicken",
-      "id": 24
-    },
-    {
-      "userId": 3,
-      "title": "Ergonomic Concrete Pants",
-      "id": 25
-    },
-    {
       "userId": 4,
       "title": "Fantastic Rubber Chair",
       "id": 26
-    },
-    {
-      "userId": 3,
-      "title": "Gorgeous Granite Towels",
-      "id": 27
     },
     {
       "userId": 3,
@@ -116,24 +31,25 @@
     },
     {
       "userId": 2,
-      "title": "Elegant Cotton Shoes",
-      "id": 30
-    },
-    {
-      "userId": 3,
-      "title": "Fantastic Fresh Towels",
-      "id": 31
-    },
-    {
-      "userId": 3,
-      "title": "Handcrafted Wooden Hat",
-      "id": 32
-    },
-    {
-      "userId": 2,
-      "title": "Bespoke Metal Bacon",
-      "id": 33
+      "title": "Fantastic Metal Mouse",
+      "id": 40
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 40,
+      "url": "https://picsum.photos/seed/uKos1N18/640/480",
+      "id": 1
+    },
+    {
+      "albumId": 28,
+      "url": "https://loremflickr.com/640/480?lock=2266967543119872",
+      "id": 2
+    },
+    {
+      "albumId": 28,
+      "url": "https://picsum.photos/seed/jBq46LTf/640/480",
+      "id": 3
+    }
+  ]
 }
